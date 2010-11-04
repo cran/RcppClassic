@@ -1,0 +1,18 @@
+
+cd inst/doc 
+make clean
+cd ../..
+
+rm -f src/*.o src/*.so src/*.a src/*.d src/*.dll src/*.rc \
+	inst/lib/libRcppClassic.so inst/lib/*.h inst/lib/libRcppClassic.a \
+	inst/doc/*.out \
+	inst/doc/.build.timestamp \
+	inst/doc/*.aux inst/doc/*.log inst/doc/*.tex \
+	inst/doc/latex/*.aux inst/doc/latex/*.log \
+	src/Makedeps libRcppClassic.a \
+	build/RcppClassic.pdf 
+
+rm -rf  inst/doc/auto
+
+find . -name \*~ -exec rm {} \;
+find . -name \*.flc -exec rm {} \;
