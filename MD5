@@ -1,12 +1,12 @@
-a0bcb1b380f3e8ed790020f3bd5754e9 *ChangeLog
-cba9bf216d9c104785add48c53276f3b *DESCRIPTION
+e48bb8ba47fd4ff02e3fdb0f6571adca *ChangeLog
+640a5031956de3dd2de5317c80be0f2c *DESCRIPTION
 686e6540f05983262dc771de31fced61 *NAMESPACE
 182ed660efbdea05afbd35bd0f7b6e5c *R/inline.R
 2aabd38e986b22b696ecd658d9709eb0 *cleanup
 461d18651c34510df1e49689db783f9d *inst/doc/RcppClassic-intro.Rnw
-2d123397c7fc74c62dfbf39bd6b2b5fc *inst/doc/RcppClassic-intro.pdf
+18bf8eede99865b44f1b8cb8698f9791 *inst/doc/RcppClassic-intro.pdf
 2225e0c032092459d0b834060a777623 *inst/doc/RcppClassic-unitTests.Rnw
-78fca4cb4be728493e58fde9e871060a *inst/doc/RcppClassic-unitTests.pdf
+c09ac83fad04720fbb73751653ef2bc2 *inst/doc/RcppClassic-unitTests.pdf
 2c01e96a47857bb60f051a041bbe6e73 *inst/examples/RcppClassicExample/DESCRIPTION
 1d6db7f11b17f093576ac7591690858c *inst/examples/RcppClassicExample/NAMESPACE
 ea1f7d32dc263d26d838a54e8c9c8ef9 *inst/examples/RcppClassicExample/R/foo.R
@@ -14,7 +14,7 @@ ea1f7d32dc263d26d838a54e8c9c8ef9 *inst/examples/RcppClassicExample/R/foo.R
 58f8cbcdc82d69f79d192d037b53e756 *inst/examples/RcppClassicExample/src/Makevars
 f847f2f67f3d066daa175b6364369a18 *inst/examples/RcppClassicExample/src/Makevars.win
 36f3ac6ddc813060b2b3280753cc8978 *inst/examples/RcppClassicExample/src/foo.cpp
-21cc74a91ba704812cea280424933f9f *inst/include/RcppClassic.h
+8755c38ff33893b74eca9c54b60898e9 *inst/include/RcppClassic.h
 3036a1e297a13f1c54904b959bd149ce *inst/include/classic/RcppDate.h
 eefa3406e956f19261ee4f589c08aa05 *inst/include/classic/RcppDateVector.h
 cceeafe9dd17cb40364fc39bc41fb6c2 *inst/include/classic/RcppDatetime.h
@@ -53,7 +53,7 @@ e1ab49453e9cd3ccff05d313dabde6d5 *src/RcppFunction.cpp
 429e0568d96b887060f3c109ce2537cb *src/RcppList.cpp
 d7a6c2d5a7e5d5b7dd254612d4a8bf96 *src/RcppNumList.cpp
 104bfdb7dd41dc8da6eedc3a8734f694 *src/RcppParams.cpp
-b8fccc23181ad85272d8cb12994fd33b *src/RcppResultSet.cpp
+0ee8440a71625da4bb8ff794f12bcae5 *src/RcppResultSet.cpp
 f81aed258aa85e5fe456a0a7a71f83ee *src/RcppStringVector.cpp
 354bb456ce530174a35b89a2e2366ec9 *src/RcppStringVectorView.cpp
 56c392000697696f478df7dcb1ecaad7 *src/copyMessageToR.cpp
@@ -61,6 +61,6 @@ e2a8d9898e6d6f17ba3dcf2035c0cb99 *tests/doRUnit.R
 a071855a9fb840a0c3f3dabb31e3d588 *vignettes/Makefile
 461d18651c34510df1e49689db783f9d *vignettes/RcppClassic-intro.Rnw
 2225e0c032092459d0b834060a777623 *vignettes/RcppClassic-unitTests.Rnw
-9bc72f7fe29ed0aecc162f63e729b703 *vignettes/unitTests-results/RcppClassic-unitTests.html
-6b90d0d761007f6888558b9dfaa245df *vignettes/unitTests-results/RcppClassic-unitTests.txt
+353d2a56abd778c99c0f4e7cd0aa69de *vignettes/unitTests-results/RcppClassic-unitTests.html
+5c94f872917b7521e1ac8e509c7c96f2 *vignettes/unitTests-results/RcppClassic-unitTests.txt
 f89b93ff4bf54a5d51186080f86bc3af *vignettes/unitTests/RcppClassic-unitTests.R
