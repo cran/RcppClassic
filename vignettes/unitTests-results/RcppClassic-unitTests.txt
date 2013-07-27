@@ -1,4 +1,4 @@
-RUNIT TEST PROTOCOL -- Thu Dec 20 23:02:56 2012 
+RUNIT TEST PROTOCOL -- Sat Jul 27 13:41:13 2013 
 *********************************************** 
 Number of test functions: 51 
 Number of errors: 0 
@@ -75,4 +75,4 @@ test.RcppResultSet.std.vector.std.vector.double: (1 checks) ... OK (0 seconds)
 test.RcppResultSet.std.vector.std.vector.int: (1 checks) ... OK (0 seconds)
 test.RcppResultSet.std.vector.std.vector.string: (1 checks) ... OK (0 seconds)
 test.RcppResultSet.string: (1 checks) ... OK (0 seconds)
-test.RObject.asStdVectorIntResultsSet: (4 checks) ... OK (3.29 seconds)
+test.RObject.asStdVectorIntResultsSet: (4 checks) ... OK (3.28 seconds)
