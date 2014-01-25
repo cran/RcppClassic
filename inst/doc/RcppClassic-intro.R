@@ -1,7 +1,7 @@
 ### R code from vignette source 'RcppClassic-intro.Rnw'
 
 ###################################################
-### code chunk number 1: RcppClassic-intro.Rnw:27-31
+### code chunk number 1: RcppClassic-intro.Rnw:29-33
 ###################################################
 require( RcppClassic )
 prettyVersion <- packageDescription("RcppClassic")$Version
