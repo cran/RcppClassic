@@ -1,7 +1,7 @@
 Package: RcppClassic
 Title: Deprecated 'classic' 'Rcpp' 'API'
-Version: 0.9.11
-Date: 2018-07-15
+Version: 0.9.12
+Date: 2019-12-08
 Author: Dirk Eddelbuettel and Romain Francois, with contributions by David Reiss,
  and based on code written during 2005 and 2006 by Dominick Samperi
 Maintainer: Dirk Eddelbuettel <edd@debian.org>
@@ -10,13 +10,13 @@ Description: The 'RcppClassic' package provides a deprecated C++ library which
  'API' in the 'Rcpp' package.
 Depends: R (>= 2.12.0)
 Imports: Rcpp (>= 0.10.2), methods
-Suggests: RUnit, inline, knitr, rmarkdown, pinp
+Suggests: tinytest
 LinkingTo: Rcpp
-VignetteBuilder: knitr
 License: GPL (>= 2)
 MailingList: Please send questions and comments about Rcpp to
         rcpp-devel@lists.r-forge.r-project.org
+BugReports: https://github.com/eddelbuettel/rcppclassic/issues
 NeedsCompilation: yes
-Packaged: 2018-07-15 14:38:37.947671 UTC; edd
+Packaged: 2019-12-08 23:19:32.781457 UTC; edd
 Repository: CRAN
-Date/Publication: 2018-07-15 21:40:06 UTC
+Date/Publication: 2019-12-09 06:40:29 UTC

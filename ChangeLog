@@ -1,3 +1,62 @@
+2019-12-08  Dirk Eddelbuettel  <edd@debian.org>
+
+	* DESCRIPTION (Version, Date): Release 0.9.12
+
+2019-12-07  Dirk Eddelbuettel  <edd@debian.org>
+
+	* src/Makevars: Comment-out perfectly valid stripping instructions
+	which make the clang-using Fedora system at CRAN cry
+
+2019-11-30  Dirk Eddelbuettel  <edd@debian.org>
+
+	* README.md: Added badges
+
+2019-11-29  Dirk Eddelbuettel  <edd@debian.org>
+
+	* vignettes/RcppClassic-intro.Rnw: New wrapper-for-premade vignette
+	* vignettes/rmd/RcppClassic-intro.Rmd: Moved from vignettes/
+
+	* DESCRIPTION (Suggests): Removed Suggests for ping as vignette made
+	* .travis.yml: No more r-cran-pinp
+
+	* cleanup: Updated
+
+2019-11-28  Dirk Eddelbuettel  <edd@debian.org>
+
+	* inst/tinytest/cpp/RcppDate.cpp: More idiomatic code in tests
+	* inst/tinytest/cpp/RcppMatrix.cpp: Idem
+	* inst/tinytest/cpp/RcppMisc.cpp: Idem
+	* inst/tinytest/cpp/RcppResultSet.cpp: Idem
+	* inst/tinytest/test_rcpp_matrix.R: Simpler calling interface
+	* inst/tinytest/test_rcpp_resultset.R: Idem
+
+2019-11-27  Dirk Eddelbuettel  <edd@debian.org>
+
+	* DESCRIPTION (Suggests): Add tinytest, remove RUnit
+	* .travis.yml (install): Add r-cran-tinytest, remove r-cran-runit
+
+	* tests/tinytest.R: Added
+	* tests/doRUnit.R: Removed
+
+	* inst/tinytest/test_rcpp_date.R: Converted tests
+	* inst/tinytest/test_rcpp_matrix.R: Idem
+	* inst/tinytest/test_rcpp_misc.R: Idem
+	* inst/tinytest/test_rcpp_resultset.R: Idem
+
+	* inst/tinytest/cpp/RcppDate.cpp: Converted C++ parts
+	* inst/tinytest/cpp/RcppMatrix.cpp: Idem
+	* inst/tinytest/cpp/RcppMisc.cpp: Idem
+	* inst/tinytest/cpp/RcppResultSet.cpp: Idem
+
+	* inst/unitTests/*: Removed
+
+	* vignettes/RcppClassic-unitTests.Rnw: Removed
+	* vignettes/unitTests/RcppClassic-unitTests.R: Idem
+
+2018-09-02  Dirk Eddelbuettel  <edd@debian.org>
+
+	* .travis.yml: Switch Travis CI to R 3.5 repo
+
 2018-07-15  Dirk Eddelbuettel  <edd@debian.org>
 
 	* DESCRIPTION (Version, Date): Release 0.9.11
