@@ -1,12 +1,12 @@
-d1150767b0482a8252586250a773b106 *ChangeLog
-1d14514b16caf6f0124a22ebcdd6c8ff *DESCRIPTION
+f2ede1cace67d1937abaa58e336d56a1 *ChangeLog
+93ad862c507be73f788f6b186b44b181 *DESCRIPTION
 c8d899b6cf23e215b2a3364238b137e3 *NAMESPACE
 e47af55a197e6cf0ec74a37858307f45 *R/inline.R
-5c7a0493a04cdcf3c2c4c30f8faf1e95 *README.md
-1fecbdd0f4c7a2d6b762fc11c93bc642 *build/vignette.rds
+8bbd442e6b5b4b57951882d25cb86de5 *README.md
+dcd6a0e93b026c96fd97a492ec9aaec8 *build/vignette.rds
 166433b2eca3c6a9159b123f0aaa0c1e *cleanup
 db3d30a6a1ebbc34e6fc657fae5d12d0 *inst/doc/RcppClassic-intro.Rnw
-a1c96f29eb68b5b50aec7dd23d40f142 *inst/doc/RcppClassic-intro.pdf
+f4ffbb056caf66f29f27743e3d30cb46 *inst/doc/RcppClassic-intro.pdf
 968bb5fc5f64ee24c620915a25f06aef *inst/examples/RcppClassicExample/DESCRIPTION
 091eca92b73bb2dfafc980cc258085df *inst/examples/RcppClassicExample/NAMESPACE
 04f0f50412ff00c383edefe290dc888b *inst/examples/RcppClassicExample/R/twoTimes.R
@@ -45,7 +45,7 @@ f27b73d976c4e3f070ee86b21762c9ea *inst/tinytest/test_rcpp_matrix.R
 5d57fa2c3316996bdec6a20fcdb39e46 *inst/tinytest/test_rcpp_misc.R
 cc1879cd02be1e8e0165d6c2527b8736 *inst/tinytest/test_rcpp_resultset.R
 1ff0647dc01c4230f21ec642e8cb6b2a *man/RcppClassic-package.Rd
-ab6dad94acb7f9946c736a396d12b651 *src/Makevars
+6e807c82422e8b39118514f8db0c9ec8 *src/Makevars
 d6d7ef1e715a2bbcbafdb6df06bc4f0f *src/Makevars.win
 6e18529aea239742b46e9719a018113d *src/RcppDate.cpp
 06a388227fb997e208a98cd17d3a78d2 *src/RcppDateVector.cpp
